@@ -20,7 +20,7 @@
 - Requests
 ## Workshop N° 6
 - Trabajando con archivos CSV y objetos JSON
-- Manteniendo el tiempo, automatizando tareas y ejecutar programas
+- Intro a Numpy & Pandas
 ## Workshop N° 7
 - Enviar e-mails y mensajes de texto
 - Manipulando imágenes
