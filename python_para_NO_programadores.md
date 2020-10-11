@@ -14,7 +14,7 @@
 - Organizado archivos
 ## Workshop N° 4
 - Web Scraping
-- Trabajando con hojas de cálculo en Excel
+- Diccionarios
 ## Workshop N° 5
 - Trabajando con hojas de cálculo en Google Sheets
 - Trabajando con PDF y Documentos de Word
