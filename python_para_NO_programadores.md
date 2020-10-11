@@ -16,8 +16,8 @@
 - Web Scraping
 - Diccionarios
 ## Workshop N° 5
-- Trabajando con hojas de cálculo en Google Sheets
-- Trabajando con PDF y Documentos de Word
+- Beautiful Soup
+- Requests
 ## Workshop N° 6
 - Trabajando con archivos CSV y objetos JSON
 - Manteniendo el tiempo, automatizando tareas y ejecutar programas
