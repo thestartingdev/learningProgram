@@ -23,6 +23,7 @@
 - Trabajando con objetos JSON
 ## Workshop N° 7
 - Introducción a Numpy
+- Introducción a Pandas
 ## Workshop N° 8
 - Controlar teclado y mouse con GUI automatizada
 - Instalando módulos de terceros
