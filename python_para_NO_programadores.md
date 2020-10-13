@@ -22,8 +22,7 @@
 - Trabajando con archivos CSV
 - Trabajando con objetos JSON
 ## Workshop N° 7
-- Enviar e-mails y mensajes de texto
-- Manipulando imágenes
+- Introducción a Numpy
 ## Workshop N° 8
 - Controlar teclado y mouse con GUI automatizada
 - Instalando módulos de terceros
