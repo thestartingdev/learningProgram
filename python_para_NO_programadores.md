@@ -19,8 +19,8 @@
 - Beautiful Soup
 - Requests
 ## Workshop N° 6
-- Trabajando con archivos CSV y objetos JSON
-- Intro a Numpy & Pandas
+- Trabajando con archivos CSV
+- Trabajando con objetos JSON
 ## Workshop N° 7
 - Enviar e-mails y mensajes de texto
 - Manipulando imágenes
