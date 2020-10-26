@@ -19,14 +19,12 @@
 - Beautiful Soup
 - Requests
 ## Workshop N° 6
-- Trabajando con archivos CSV
-- Trabajando con objetos JSON
+- Trabajando con archivos CSV y JSON
+- Pandas
 ## Workshop N° 7
-- Introducción a Numpy
-- Introducción a Pandas
+- Proyecto Final - Parte 1
 ## Workshop N° 8
-- Controlar teclado y mouse con GUI automatizada
-- Instalando módulos de terceros
+- Proyecto Final - Parte 2
 ## Workshop N° 9
 - Como armar tu CV
 - Portales laborales
